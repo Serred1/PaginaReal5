@@ -1,0 +1,32 @@
+
+.primera {
+        background-image: url(../img/fori.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100%;
+        width: 100%;
+        margin: 0;
+        padding: 0%;
+    }
+.segunda {
+        background-image: url(../img/beef.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100%;
+        width: 100%;
+        margin: 0;
+    }
+    
+.texto {
+    height: 35%;
+    width: 35%;
+    text-align: justify;
+    padding: 20px 0 20px 17px;
+    background-color: blue;
+    
+
+
+}
+
